@@ -1,0 +1,7 @@
+# Java Project
+target/
+*.class
+*.jar
+*.war
+*.docx
+*.pdf
